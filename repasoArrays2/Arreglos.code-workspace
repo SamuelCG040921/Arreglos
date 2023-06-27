@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/Miscelanea Arreglos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Arreglos"
+	}
+}
